@@ -1,4 +1,4 @@
-# 💫 Hi, I am Ayush:
+# 💫 Hi, I am Ayush!
 🔭 I'm currently working on mastering Large Language Models (LLMs) and expanding my expertise in NLP chatbot development alongside my skills in computer vision.<br><br>🤝 I'm looking to collaborate on innovative projects in machine learning, computer vision, and data science, especially those that push the boundaries of AI applications.<br><br>🆘 I'm looking for help with networking and finding the right full-time role where I can contribute my skills and continue learning in a dynamic environment.<br><br>🌱 I'm currently learning advanced techniques in natural language processing, and how to leverage LLMs for various applications like chatbot, sentiment analysis and text generation.<br><br>💬 Ask me about LLM, computer vision, machine learning models, data analysis, and transitioning from academic projects to real-world applications.<br><br>🎯 Fun fact: When I'm not coding, you'll find me exploring new culinary arts from the various regions and experimenting in the kitchen. I love blending technology with creativity, whether it's in AI or whipping up a new platter!
 
 
